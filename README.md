@@ -25,7 +25,7 @@
 ---
 
 ## 🔭 About Me
-- 🎓 **B.Tech CSE (Cybersecurity)** @ Central University of Jammu — *Expected 2026*  
+- 🎓 **B.Tech CSE (Cybersecurity)** @ Central University of Jammu — 2026  
 - 🧠 Focus Areas: **Vulnerability Management, SOC Monitoring, AI-driven Security, Embedded Systems**  
 - 🧰 Tools: **Python, C/C++, HTML/CSS/JS, SQL, Linux, Git, Android/Linux platforms**  
 - 🌐 Networking: **TCP/UDP/IP, Wi-Fi, Bluetooth**  
