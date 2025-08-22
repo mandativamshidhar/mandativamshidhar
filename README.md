@@ -2,12 +2,6 @@
 <h1 align="center">Vamshidhar Reddy Mandati</h1>
 <h3 align="center">Cybersecurity | Artificial Intelligence | Web Development | Embedded Systems</h3>
 
-<!-- ==================== PROFILE PICTURE ==================== -->
-<p align="center">
-  <!-- Replace profile.png with your own photo in the assets/ folder -->
-  <img src="assets/profile.png" alt="Profile Picture" width="160" style="border-radius:50%;"/>
-</p>
-
 <!-- ==================== BADGES ==================== -->
 <p align="center">
   <a href="https://github.com/mandativamshidhar">
